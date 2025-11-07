@@ -1,4 +1,4 @@
-# moNa2 詳細説明
+# moNa2 詳細説明 nixiy版
 
 moNa2の最新ファームウェアはこちら
 > https://github.com/sayu-hub/zmk-config-moNa2-v2
